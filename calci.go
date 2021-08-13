@@ -21,22 +21,22 @@ func subFloat(e float32, f float32)float32{
 }
 
 //will multiply integers
-func subMul(g int, h int)int{
+func mulInt(g int, h int)int{
 	return(g*h)
 }
 
 //will multiply float32
-func subMul(k float32, l float32)float32{
+func mulFloat(k float32, l float32)float32{
 	return(k*l)
 }
 
 //will divide integers
-func subDiv(m int, n int)int{
+func divInt(m int, n int)int{
 	return(m/n)
 }
 
 //will divide the Float32 type
-func subDiv(o float32, p float32)float32{
+func givFloat(o float32, p float32)float32{
 	return(o/p)
 }
 
